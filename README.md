@@ -30,3 +30,8 @@ Roadmap How it works:
 •	Created a dataframe to store entire scraped data
 •	now download the scrape data in the form of JSON and CSV
 •	A new collection will be created and data is uploaded into that collection.
+
+
+
+![image](https://user-images.githubusercontent.com/56815918/232957308-58e512c9-4690-4730-b57e-c6bf43983621.png)
+
