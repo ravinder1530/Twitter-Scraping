@@ -31,6 +31,11 @@ Roadmap How it works:
 •	now download the scrape data in the form of JSON and CSV
 •	A new collection will be created and data is uploaded into that collection.
 
+![image](https://user-images.githubusercontent.com/56815918/232958350-77492863-730c-4127-908e-7ebbdcfcbbda.png)
+
+
+![image](https://user-images.githubusercontent.com/56815918/232958399-b80d43ed-b27a-4ba1-b972-fdadc6644d01.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/56815918/232957308-58e512c9-4690-4730-b57e-c6bf43983621.png)
